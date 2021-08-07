@@ -1,0 +1,1153 @@
+main() {
+  Execution directory: /Users/Megan/Desktop/NLP/p2-distrib/state/execs/93.exec
+  DataManager.loadExamples {
+    Reading general {
+      Path: evaluator/domains/dbquery/geoquery/1/geoquery.dlog {
+        Parsing evaluator/domains/dbquery/geoquery/1/geoquery.dlog
+        89 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/../../general/predicates.dlog
+        49 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/geobase.dlog [1.1s, cum. 2.1s]
+        698 statements
+      } [3.4s, cum. 3.4s]
+      Path: evaluator/domains/dbquery/geoquery/1/lexicon.dlog {
+        Parsing evaluator/domains/dbquery/geoquery/1/lexicon.dlog
+        5 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/../../general/lexicon.dlog
+        31 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/lexicon0.dlog
+        5 statements
+      }
+      Path: /var/folders/rx/x3y13w4n2c3gsgtdwx6mqf5w0000gn/T/tmppme7tjwb.dlog {
+        Parsing /var/folders/rx/x3y13w4n2c3gsgtdwx6mqf5w0000gn/T/tmppme7tjwb.dlog {
+          DatalogParser.loadSafe(): start
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((((A,((A,((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A,)))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((A,((A,((A,((A))))))))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,((((A,((A,((A,((A,((A)))))))))))))))))))))))))))))))))))))))))).
+          _parse([query], answer(A,(((((A,((A,((A,((A,((A,((A,((A,)))))))))))))))))))))))))))))))).
+          DatalogParser.loadSafe(): end
+        } [5.0s, cum. 5.0s]
+        560 statements
+        Example tmppme7tjwb.dlog:0: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:1: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:2: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:3: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:4: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:5: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:6: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:7: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:8: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:9: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:10: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:11: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:12: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:13: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:14: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:15: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:16: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:17: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:18: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:19: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:20: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:21: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:22: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:23: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:24: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:25: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:26: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:27: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:28: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:29: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:30: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:31: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:32: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:33: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:34: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:35: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:36: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:37: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:38: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:39: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:40: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:41: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:42: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:43: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:44: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:45: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:46: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:47: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:48: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:49: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:50: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:51: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:52: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:53: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:54: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:55: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:56: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:57: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:58: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:59: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:60: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:61: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:62: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:63: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:64: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:65: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:66: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:67: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:68: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:69: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:70: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:71: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:72: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:73: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:74: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:75: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:76: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:77: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:78: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:79: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:80: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:81: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:82: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:83: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:84: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:85: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:86: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:87: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:88: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:89: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:90: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:91: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:92: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:93: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:94: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:95: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:96: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:97: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:98: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:99: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:100: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:101: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:102: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:103: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:104: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:105: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:106: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:107: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:108: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:109: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:110: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:111: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:112: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:113: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:114: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:115: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:116: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:117: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:118: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:119: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:120: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:121: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:122: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:123: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:124: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:125: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:126: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:127: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:128: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:129: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:130: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:131: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:132: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:133: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:134: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:135: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:136: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:137: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:138: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:139: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:140: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:141: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:142: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:143: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:144: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:145: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:146: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:147: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:148: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:149: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:150: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:151: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:152: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:153: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:154: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:155: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:156: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:157: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:158: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:159: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:160: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:161: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:162: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:163: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:164: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:165: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:166: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:167: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:168: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:169: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:170: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:171: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:172: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:173: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:174: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:175: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:176: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:177: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:178: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:179: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:180: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:181: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:182: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:183: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:184: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:185: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:186: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:187: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:188: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:189: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:190: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:191: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:192: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:193: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:194: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:195: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:196: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:197: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:198: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:199: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:200: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:201: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:202: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:203: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:204: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:205: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:206: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:207: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:208: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:209: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:210: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:211: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:212: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:213: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:214: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:215: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:216: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:217: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:218: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:219: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:220: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:221: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:222: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:223: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:224: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:225: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:226: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:227: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:228: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:229: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:230: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:231: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:232: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:233: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:234: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:235: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:236: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:237: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:238: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:239: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:240: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:241: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:242: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:243: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:244: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:245: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:246: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:247: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:248: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:249: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:250: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:251: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:252: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:253: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:254: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:255: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:256: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:257: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:258: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:259: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:260: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:261: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:262: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:263: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:264: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:265: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:266: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:267: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:268: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:269: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:270: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:271: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:272: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:273: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:274: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:275: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:276: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:277: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:278: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmppme7tjwb.dlog:279: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+        Example FAILED TO PARSE
+      } [5.3s, cum. 8.8s]
+    } [8.8s, cum. 8.8s]
+    Randomly splitting 280 general examples
+    196 training examples, 84 test examples
+  } [8.8s, cum. 8.9s]
+  Execution directory: /Users/Megan/Desktop/NLP/p2-distrib/state/execs/93.exec
+} [8.9s]
